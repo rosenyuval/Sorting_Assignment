@@ -36,5 +36,5 @@ Noise Level Comparison (5% vs. 20%): We observed that increasing noise directly 
 
 Comparison to Part B: Runtimes for all algorithms were lower than in the random experiment. Bubble Sort showed the most significant improvement; because the arrays were "mostly sorted," the number of necessary operations decreased drastically compared to the fully unsorted inputs in Part B. Despite the improvements in nearly sorted scenarios, the efficiency gap remains clear: the O(n log n) algorithms consistently outperform the O(n^2) Bubble Sort as n increases 
 
-.Conclusion: Our results confirm that partial order reduces execution time, especially for exchange-based algorithms like Bubble Sort. However, for large-scale data, the structural efficiency of Quick and Merge Sort remains superior regardless of noise levels.
+Conclusion: Our results confirm that partial order reduces execution time, especially for exchange-based algorithms like Bubble Sort. However, for large-scale data, the structural efficiency of Quick and Merge Sort remains superior regardless of noise levels.
 
