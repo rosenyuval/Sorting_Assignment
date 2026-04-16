@@ -3,7 +3,7 @@ Elgar Elezra 212573059, Yuval Rosen 322867805
 
 **Selected algorithms:**
 1. Bubble sort
-2. Quick sor
+2. Quick sort
 3. merge sort 
 
 **Analysis of Results:**
